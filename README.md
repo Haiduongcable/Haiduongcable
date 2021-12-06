@@ -5,8 +5,6 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-d%C6%B0%C6%A1ng-b369b51b8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="40" /></a>
-<br></br>
-
 <a href="https://github.com/Haiduongcable" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48142689/99891123-13477280-2c99-11eb-8a5d-e79cb8896d28.gif" height="30" width="40" /></a>
 
 ### Languages
