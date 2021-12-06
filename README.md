@@ -17,11 +17,11 @@
 ### Framework
 
 * 🗣 Tensorflow | Pytorch
-* 🖇️ OpenCV | Pillow | Mathplotlib
-* 🛢️ MySQL 
-* | React Native | ReactJS
-* :octocat: Git | Github
-* :appleinc: Nvidia Jetson | TensorRT | ONNX
+* 🖇️ OpenCV | Pillow | Mathplotlib | Seaborn
+* 🛢️ MySQL | MongoDB | Elastic Search
+* :beer: React Native | ReactJS | NodeJS
+* :octocat: Git | Github | GitLab
+* :computer: Nvidia Jetson | TensorRT | ONNX
 
 
 ### Computer Vision Project
