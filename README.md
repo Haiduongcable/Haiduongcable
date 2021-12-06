@@ -17,7 +17,7 @@
 ### Framework
 
 * 🗣 Tensorflow | Pytorch
-* 🖇️ OpenCV | Pillow | Mathplotlib | Seaborn
+* 🖇️ OpenCV | Pillow | Matplotlib | Seaborn
 * 🛢️ MySQL | MongoDB | Elastic Search
 * :beer: React Native | ReactJS | NodeJS
 * :octocat: Git | Github | GitLab
