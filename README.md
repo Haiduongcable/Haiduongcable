@@ -24,11 +24,16 @@
 * :octocat: Git | Github | GitLab
 * :computer: Nvidia Jetson | TensorRT | ONNX
 
+### CrossPlatform Mobile Project
+[![Social Network Application](https://img.shields.io/badge/-📱%20Social%20Network%20Application-fff?)](https://github.com/tuankid26/Balogram)
+
+### BigData Project
+[![MultiCluster Dataprocess](https://img.shields.io/badge/-🌊%20MultiCluster%20Dataprocess-fff?)](https://github.com/Haiduongcable/Project-1)
 
 ### Computer Vision Project
-[![License Plate Recognition](https://img.shields.io/badge/-🌊%20License%20Plate%20Recognition-fff?)](https://github.com/hoainv99/license-plate-recognition)
-[![Extract key information from receipt](https://img.shields.io/badge/-💉%20Extract%20Key%20Information%20from%20receipt-fff?)](https://github.com/hoainv99/mc-ocr)
-[![OCR Vietnamese](https://img.shields.io/badge/-🛡%20OCR%20Vietnamese-fff?)](https://github.com/hoainv99/OCR-Vietnamese)
+[![License Plate Recognition](https://img.shields.io/badge/-🌊%20License%20Plate%20Recognition-fff?)](https://github.com/Haiduongcable/Project-1)
+[![Facial Stroke Recognition](https://img.shields.io/badge/-💉%20Facial%20Stroke%20Recognition-fff?)](https://github.com/Haiduongcable/Facial-Stroke-recognition)
+[![Medical Image Segmentation](https://img.shields.io/badge/-🛡%20Medical%20Image%20Segmentation-fff?)](https://github.com/Haiduongcable/MedicalImage_Segmentation)
 ### Natural Language Processing Project
 [![Sentiment Analysis](https://img.shields.io/badge/-🛡%20Sentiment%20Analysis-fff?)](https://github.com/Haiduongcable/DataScience-SentimentAnalysis)
 
