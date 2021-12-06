@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-d%C6%B0%C6%A1ng-b369b51b8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="40" /></a>
 <a href="https://github.com/Haiduongcable" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="40" /></a>
+<a href="https://www.facebook.com/haiduong.nguyen2712" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" height="30" width="40" /></a>
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
