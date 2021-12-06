@@ -21,7 +21,7 @@
 * 🛢️ MySQL 
 * | React Native | ReactJS
 * :octocat: Git | Github
-* :nvidia: Nvidia Jetson | TensorRT | ONNX
+* :appleinc: Nvidia Jetson | TensorRT | ONNX
 
 
 ### Computer Vision Project
