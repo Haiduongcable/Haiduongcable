@@ -28,7 +28,7 @@
 [![Social Network Application](https://img.shields.io/badge/-📱%20Social%20Network%20Application-fff?)](https://github.com/tuankid26/Balogram)
 
 ### BigData Project
-[![MultiCluster Dataprocess](https://img.shields.io/badge/-📈%20MultiCluster%20Dataprocess-fff?)](https://github.com/Haiduongcable/Project-1)
+[![MultiCluster Dataprocess](https://img.shields.io/badge/-📈%20MultiCluster%20Dataprocess-fff?)](https://github.com/Haiduongcable/BigData-Computing)
 
 ### Computer Vision Project
 [![License Plate Recognition](https://img.shields.io/badge/-🚗%20License%20Plate%20Recognition-fff?)](https://github.com/Haiduongcable/Project-1)
