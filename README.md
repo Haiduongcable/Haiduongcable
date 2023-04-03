@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Hai Duong 👨‍💻
-- 👨🏻‍💻 I'm a four years at Ha Noi University Of Science And Technology.
+- 👨🏻‍💻 I'm a data scientist
 - 💡 I am a big fan of cute pets and machine learning
 
 <p align="left">
